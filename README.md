@@ -1,4 +1,28 @@
 # Mark-Attendance
 An Android based personal Attendance Manager App.
 
-It is an Android based Attendance Manager app which can be used by students to manage their ever-short attendance. It provides with the ability to feed your time-table and mark your attendance on daily basis.On a given day a student can mark PRESENT, ABSENT, CANCEL or BUNK for a class. It also predicts the number of classes needed to be attended in order to make the attendance above the set criteria. Attendance for extra classes can also be marked be marked on a given day. Attendance for any previous day can also be marked.
+## Features : 
+- [x] Ability to set the attendance shortage percentage.
+- [x] Add and remove subjects.
+- [x] Mark attendance for a class as **present**, **absent** or **cancelled/holiday**.
+- [x] Mark attendance for extra class.
+- [x] Mark attendance for past classes.
+- [x] If attendance is short, then display number of classes that needs to be attended. 
+- [ ] Runtime Permissions
+- [ ] Graphical Representation of attendance
+- [ ] Notifications
+
+- Download the apk file [here](https://github.com/garvit14/Mark-Attendance/raw/master/Mark%20Attendance.apk)
+
+### Some screenshots of the application :
+<img src="https://github.com/garvit14/Mark-Attendance/blob/master/Screenshots/Basic-info1.png" width="200"> <img src="https://github.com/garvit14/Mark-Attendance/blob/master/Screenshots/Basic-info2.png" width="200">
+<img src="https://github.com/garvit14/Mark-Attendance/blob/master/Screenshots/Enter-subjects.png" width="200">
+<img src="https://github.com/garvit14/Mark-Attendance/blob/master/Screenshots/Fill-timetable.png" width="200">
+<img src="https://github.com/garvit14/Mark-Attendance/blob/master/Screenshots/Go-To-Date.png" width="200">
+<img src="https://github.com/garvit14/Mark-Attendance/blob/master/Screenshots/Go-To-Date2.png" width="200">
+<img src="https://github.com/garvit14/Mark-Attendance/blob/master/Screenshots/Main-screen.png" width="200">
+<img src="https://github.com/garvit14/Mark-Attendance/blob/master/Screenshots/Mark-Attendance.png" width="200">
+<img src="https://github.com/garvit14/Mark-Attendance/blob/master/Screenshots/Overall-Attendance.png" width="200">
+<img src="https://github.com/garvit14/Mark-Attendance/blob/master/Screenshots/Update.png" width="200">
+
+*Tested on Android 5.0 and below*
